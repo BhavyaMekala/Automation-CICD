@@ -23,7 +23,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-		//MY new commit for Continous Integration
+		//MY new commit for Continous Integration gave lasts of efforts
 		String productName="ZARA COAT 3";
 		WebDriverManager.edgedriver().setup();
 		WebDriver driver = new EdgeDriver();
